@@ -1,0 +1,3 @@
+2023-02-06 03:57:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRADE" not found; SQL statement:
+select trade0_.trade_id as trade_id1_0_, trade0_.book_id as book_id2_0_, trade0_.counter_party_id as counter_3_0_, trade0_.created_date as created_4_0_, trade0_.is_expired as is_expir5_0_, trade0_.maturity_date as maturity6_0_, trade0_.version as version7_0_ from trade trade0_ [42102-200]
